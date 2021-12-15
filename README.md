@@ -11,5 +11,5 @@ Top Languages:
 
 Projects:
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=apisix" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=apisix&show_owner=true" />
 
